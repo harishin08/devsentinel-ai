@@ -1,0 +1,2 @@
+Linux commands for DevSentinel AI
+pwd - print working directory
