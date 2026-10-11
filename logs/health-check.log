@@ -1,0 +1,10 @@
+[2026-10-11 15:49:27] web-server | CPU: 85% (HIGH) | Memory: 60% (NORMAL) | Overall: WARNING
+[2026-10-11 15:49:27] database-server | CPU: 45% (NORMAL) | Memory: 90% (HIGH) | Overall: WARNING
+[2026-10-11 15:49:27] app-server | CPU: 40% (NORMAL) | Memory: 50% (NORMAL) | Overall: HEALTHY
+[2026-10-11 15:49:27] ERROR - test-server: CPU usage must be between 0 and 100.
+[2026-10-11 15:49:27] ERROR - invalid-server: Invalid CPU or memory value.
+[2026-10-11 15:50:38] web-server | CPU: 85% (HIGH) | Memory: 60% (NORMAL) | Overall: WARNING
+[2026-10-11 15:50:38] database-server | CPU: 45% (NORMAL) | Memory: 90% (HIGH) | Overall: WARNING
+[2026-10-11 15:50:38] app-server | CPU: 40% (NORMAL) | Memory: 50% (NORMAL) | Overall: HEALTHY
+[2026-10-11 15:50:38] ERROR - test-server: CPU usage must be between 0 and 100.
+[2026-10-11 15:50:38] ERROR - invalid-server: Invalid CPU or memory value.
