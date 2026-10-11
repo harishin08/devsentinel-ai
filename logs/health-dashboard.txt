@@ -1,0 +1,28 @@
+=============================================
+       DEVSENTINEL AI HEALTH DASHBOARD
+=============================================
+Timestamp: 2026-10-11 16:36:12
+Hostname: Harishin
+Operating System: Linux
+
+CPU Usage: 0.3%
+Memory Usage: 13.3%
+Disk Usage: 54.98%
+
+Overall Status: HEALTHY
+=============================================
+
+=============================================
+       DEVSENTINEL AI HEALTH DASHBOARD
+=============================================
+Timestamp: 2026-10-11 16:37:12
+Hostname: Harishin
+Operating System: Linux
+
+CPU Usage: 0.2%
+Memory Usage: 13.3%
+Disk Usage: 54.98%
+
+Overall Status: HEALTHY
+=============================================
+
